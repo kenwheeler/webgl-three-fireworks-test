@@ -3518,6 +3518,10 @@ react-devtools-core@3.0.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-view-shot@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-view-shot/-/react-native-view-shot-2.2.0.tgz#482dc21bc37379aca8f3f97a694c080a57f1ea78"
+
 react-native-webgl@^0.8.0:
   version "0.8.0"
   resolved "https://registry.yarnpkg.com/react-native-webgl/-/react-native-webgl-0.8.0.tgz#f03552c639a2a022c67ff7b9d1256bd8aa56aadc"

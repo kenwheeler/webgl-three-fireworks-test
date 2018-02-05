@@ -9,6 +9,7 @@
   "dependencies": {
     "react": "16.2.0",
     "react-native": "0.52.0",
+    "react-native-view-shot": "^2.2.0",
     "react-native-webgl": "^0.8.0",
     "three": "^0.89.0"
   },
